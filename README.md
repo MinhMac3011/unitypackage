@@ -11,4 +11,3 @@ Step 4: Add Component Animator for Raw Image and drag UIEffect_Demo_For Thumbnai
 Step 5: Add Component, search the UITransitionEffect script and add that script for the newly created Raw Image<br>
 Step 6: Play project // You can change the way the transition occurs by changing the options of the EffectMode property of UITransitionEffect script in the Inspector tab.<br>
 
-## Package 2:
